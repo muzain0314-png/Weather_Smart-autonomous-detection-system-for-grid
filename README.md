@@ -2,7 +2,7 @@
 https://github.com/user-attachments/assets/85b05859-7360-4042-86b7-27ee69895763
 # Weather_Smart-autonomous-detection-system-for-grid
 # AI-Powered Smart Renewable Energy Grid System
-https://github.com/user-attachments/assets/35867472-299b-4a87-a354-0bf5473e181c
+
 An intelligent, real-time automation system designed to optimize energy generation and ensure hardware protection for hybrid **Solar and Wind Grid Infrastructures**. 
 
 ## 🎯 Project Objective
